@@ -1,2 +1,4 @@
-# Whitney_Let_The_Dogs_Out
+# Whitney Let The Dogs Out
 Whitney's public website
+
+http://whitneyletthedogsout.com/
